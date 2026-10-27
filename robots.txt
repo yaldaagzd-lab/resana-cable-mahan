@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://resanacablemahan.ir/sitemap.xml
